@@ -1,0 +1,16 @@
+# ignore .idea and .virtual_documents
+.idea/
+.virtual_documents/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environment folders
+venv/
+.env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
