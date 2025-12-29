@@ -14,3 +14,9 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+
+
+**/dataset_out/
+**/out_images/
+**/video-sd-out.mp4
+
